@@ -1,6 +1,25 @@
-# Clonacion Netflix
+# Beflix
+
 Clonación de página web inspirada en Netflix 
 
-[![captura.jpg](https://i.postimg.cc/0yXvkNKj/captura.jpg)](https://postimg.cc/WdZCSTnc)
+## Construido con 🛠️
 
-[![captura.jpg](https://i.postimg.cc/mDQKHZkQ/captura.jpg)](https://postimg.cc/jwS8Vbz5)
+* [Visual Studio Code](https://code.visualstudio.com/)
+
+
+## Autores ✒️
+
+
+* **Samuel Bonet** - [samuelbonet](https://github.com/samuelbonet)
+ 
+
+## Licencia 📄
+
+Este proyecto es de uso libre y gratuito para cualquier usuario
+
+
+
+---
+⌨️ con ❤️ por [samuelbonet](https://github.com/samuelbonet) 😊
+
+
